@@ -234,7 +234,7 @@ header nav .form i {
     min-height: 100vh;
     background-size: cover;
     background-color: aquamarine;
-    background-image: url(../imgs/landing.jpg);
+    background-image: url(../imgs/landing.webp);
 
 }
 
@@ -401,7 +401,7 @@ header nav .form i {
 .design {
     margin-top: var(--section-paddin);
     margin-bottom: var(--section-paddin);
-    background-image: url(../imgs/6985678.jpg);
+    background-image: url(../imgs/6985678.webp);
     height: 600px;
     background-size: cover;
     position: relative;
@@ -689,7 +689,7 @@ header nav .form i {
 
 /* start stats  */
 .stats {
-    background-image: url(../imgs/paris2.jpg);
+    background-image: url(../imgs/paris2.webp);
     background-size: cover;
     width: 100%;
     position: relative;
@@ -906,7 +906,7 @@ header nav .form i {
 .quete {
     padding-top: var(--section-paddin);
     padding-bottom: var(--section-paddin);
-    background-image: url(../imgs/paris.jpg);
+    background-image: url(../imgs/paris.webp);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -1052,7 +1052,7 @@ q::before {
 .subs {
     padding-top: var(--section-paddin);
     padding-bottom: var(--section-paddin);
-    background-image: url(../imgs/download.jpg);
+    background-image: url(../imgs/download.webp);
     background-size: cover;
     position: relative;
     color: white;
@@ -1231,7 +1231,7 @@ q::before {
 .footer {
     padding-top: calc(var(--section-paddin) / 2);
     padding-bottom: calc(var(--section-paddin) / 2);
-    background-image: url(../imgs/forest.jpg);
+    background-image: url(../imgs/forest.webp);
     position: relative;
     background-size: cover;
     color: white;
